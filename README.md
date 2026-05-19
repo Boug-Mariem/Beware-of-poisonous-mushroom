@@ -105,7 +105,5 @@ Full preprocessing + training pipelines were built for both models using `sklear
 ---
 
 ## 👥 Authors
-- Mariem Boughizene
-- Mohsen Allani
 - **Mariem Boughizene**
 - **Mohsen Allani**
